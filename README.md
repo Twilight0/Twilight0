@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello, I'm Twilight0!
-### 🛠️ Lead Developer of AliveGR & Open Source Translator 🌍
+### 🛠️ Lead Developer of [AliveGR](https://github.com/Twilight0/plugin.video.alivegr "AliveGR") & Open Source Translator 🌍
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TwiIight0)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/TwilightZer0)
@@ -37,9 +37,5 @@ Creating software and maintaining translations takes time and caffeine. If you u
 | :--- | :--- |
 | **Ko-fi** | [Support on Ko-fi](https://ko-fi.com/alivegr_twilight0) |
 | **PayPal** | [Support on PayPal](https://paypal.me/AliveGR) |
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.”*
 
 </div>
