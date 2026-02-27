@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Twilight0/Twilight0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Twilight0!
+### 🛠️ Lead Developer of AliveGR & Open Source Translator 🌍
 
-Here are some ideas to get you started:
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TwiIight0)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alivegr_twilight0)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AliveGR)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+I'm a developer dedicated to the Python ecosystem and the Greek open-source community. My work focuses on building robust multimedia tools and ensuring global software is accessible to everyone through localization.
+
+* **💻 Currently Building:** Cross-platform applications using the **Flet** framework.
+* **🔌 Legacy Work:** Deep roots in **Kodi** add-on development (**AliveGR**).
+* **🌐 Localization:** Lead translator for **Kodi**, **ResolveURL**, and the **YouTube Addon**.
+* **🎥 Content Creator:** I share development insights and tech content on my YouTube channel.
+
+---
+
+### 🧪 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flet](https://img.shields.io/badge/flet-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
+![Kodi](https://img.shields.io/badge/Kodi-17B2E7?style=for-the-badge&logo=kodi&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Twilight0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Twilight0's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight0&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 💖 Support My Journey
+
+Creating software and maintaining translations takes time and caffeine. If you use my tools or translations, consider supporting the work!
+
+| **Platform** | **Link** |
+| :--- | :--- |
+| **Ko-fi** | [Support on Ko-fi](https://ko-fi.com/alivegr_twilight0) |
+| **PayPal** | [Support on PayPal](https://paypal.me/AliveGR) |
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
+
+</div>
