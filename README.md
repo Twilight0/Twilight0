@@ -22,21 +22,9 @@ I'm a developer dedicated to the Python ecosystem and the Greek open-source comm
 
 ### 🧪 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flet](https://img.shields.io/badge/flet-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-![Kodi](https://img.shields.io/badge/Kodi-17B2E7?style=for-the-badge&logo=kodi&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Twilight0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Twilight0's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight0&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</p>
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")](https://www.python.org "Python")
+[![Flet](https://img.shields.io/badge/flet-0175C2?style=for-the-badge&logo=flutter&logoColor=white "Flet")](https://flet.dev "Flet")
+[![Kodi](https://img.shields.io/badge/Kodi-17B2E7?style=for-the-badge&logo=kodi&logoColor=white "Kodi")](https://kodi.tv "Kodi")
 
 ---
 
